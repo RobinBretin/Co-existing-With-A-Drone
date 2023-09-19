@@ -1,6 +1,8 @@
 # Co-existing-With-A-Drone
 This GitHub repository serves as an open-access data archive for my research study "Co-existing With Drones: A Virtual Exploration of Proxemic Behaviours and Users’ Insights on Social Drones". 
 
+The IPQ, RoSAS and Demograhics folders each contains a .txt file which contains the Igroup Presence Questionnaire, Robot Social Attribute Scale and Demographic results associated to participants' unique id.
+
 The Proxemic folder contains a .txt file for each participant which stores the following data:
 - Participant's id,
 - Height condition,
@@ -14,3 +16,5 @@ The Proxemic folder contains a .txt file for each participant which stores the f
 - Distance between the drone and the participant
 - Participant's velocity
 - Time
+
+
